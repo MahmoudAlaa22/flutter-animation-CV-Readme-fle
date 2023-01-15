@@ -4,7 +4,6 @@
 "Bring your resume to life with our Flutter Animation CV app - showcasing your skills and qualifications in a dynamic and engaging way."❤️ 
 
 ![](https://user-images.githubusercontent.com/60518534/212568723-cdcd65a3-1217-421e-897c-7e628282eb42.gif))
-#### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_tdd-bloc-flutterabrbloc-activity-6993572439372775424-Jabx?utm_source=share&utm_medium=member_desktop)
 
 ## Download App 
 <a href="https://github.com/MahmoudAlaa22/flutter-animate-cv/releases/download/V1/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
