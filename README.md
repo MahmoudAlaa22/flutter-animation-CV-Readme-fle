@@ -1,5 +1,5 @@
 
-# Flutter Animtaion CV 📝
+# Flutter Animation CV 📝
 
 "Bring your resume to life with our Flutter Animation CV app - showcasing your skills and qualifications in a dynamic and engaging way."❤️ 
 
@@ -7,7 +7,7 @@
 #### [Video](https://www.linkedin.com/posts/mahmoudalaa2210_tdd-bloc-flutterabrbloc-activity-6993572439372775424-Jabx?utm_source=share&utm_medium=member_desktop)
 
 ## Download App 
-<a href="[https://github.com/MahmoudAlaa22/WeatherApp-Readme-file/releases/download/v1/weather.apk](https://github.com/MahmoudAlaa22/E-Commerce-Readme-file-/releases/download/V1.0/app-release.apk)"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/MahmoudAlaa22/flutter-animate-cv/releases/download/V1/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## ⚙ Tools Used
 - Flutter 
