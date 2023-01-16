@@ -23,7 +23,7 @@
 
 
 
-# Responsive for multiple devices 📱💻 
+## 📱💻 Responsive for multiple devices 
 ![](https://user-images.githubusercontent.com/60518534/212568752-0bbf9d7c-64d6-4537-af0f-688abc772634.gif)
 
 ## Directory Structure
