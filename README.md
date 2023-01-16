@@ -1,7 +1,7 @@
 
 # Flutter Animation CV 📝
 
-"Bring your resume to life with our Flutter Animation CV app - showcasing your skills and qualifications in a dynamic and engaging way."❤️ 
+"Bring your resume to life with our Flutter Animation CV app/website - showcasing your skills and qualifications in a dynamic and engaging way.."❤️ 
 
 ![](https://user-images.githubusercontent.com/60518534/212568723-cdcd65a3-1217-421e-897c-7e628282eb42.gif))
 
@@ -20,6 +20,7 @@
 ✔ Beautiful UI.\
 ✔ Showing the CV.\
 ✔ Amazing animation.
+✔ The design is suitable for all screen sizes👌✨
 
 
 
