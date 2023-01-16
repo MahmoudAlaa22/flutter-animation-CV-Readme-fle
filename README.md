@@ -5,7 +5,9 @@
 
 ![](https://user-images.githubusercontent.com/60518534/212568723-cdcd65a3-1217-421e-897c-7e628282eb42.gif))
 
-#### [Website](https://multiple-auth-4d0ff.web.app/#/)
+## 🌐Website
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://multiple-auth-4d0ff.web.app/#/)
+
 ## Download App 
 <a href="https://github.com/MahmoudAlaa22/flutter-animate-cv/releases/download/V1/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
