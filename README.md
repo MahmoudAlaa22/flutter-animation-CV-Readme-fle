@@ -3,7 +3,7 @@
 
 "Bring your resume to life with our Flutter Animation CV app/website - showcasing your skills and qualifications in a dynamic and engaging way.."❤️ 
 
-![](https://user-images.githubusercontent.com/60518534/212568723-cdcd65a3-1217-421e-897c-7e628282eb42.gif))
+![](https://user-images.githubusercontent.com/60518534/212568723-cdcd65a3-1217-421e-897c-7e628282eb42.gif)
 
 ## 🌐Website
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://multiple-auth-4d0ff.web.app/#/)
